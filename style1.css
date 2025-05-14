@@ -1,0 +1,1674 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{  background-color:whitesmoke;
+}
+.navb{display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    
+}
+li{
+    display: flex;
+align-items: center;
+text-align: center;
+}
+.titre{
+    margin-left: 5%;
+    font-size: 1.4rem;
+    font-family: "Boldonse";
+    color: white;
+    text-decoration: underline;
+    
+}
+.logetnom{
+    display: flex ;
+    font-size: 2rem;
+    margin-right: 10%;
+    width: 30%;
+    
+}
+
+.reste{
+    display: flex ;
+    font-size: 1.5rem;
+    width: 60%;
+    justify-content: space-evenly;
+}
+
+a{
+    color:#8b8373;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+
+
+.ctrl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+margin-top: 2rem;
+width: 100%;
+margin: 0.2%;
+}
+
+.droit{
+width: 70%;
+margin-bottom: 10rem;
+height: 15rem;
+
+}
+
+.gauche{
+    
+    margin-top: -8rem;
+    z-index: -1;
+    width: 100%;
+    height: 45rem;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0rem 0rem 2rem 2rem;
+margin-bottom:2rem;
+}
+
+.text2{
+    color: black;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.text3{
+    height: 10%;
+    display: flex;
+    margin-top: 3%;
+    justify-content: space-evenly;
+}
+.text33{
+    display: flex;
+    margin-top: 3%;
+    justify-content: center;
+
+}
+.chef{
+    width: 40%;
+    border: none;
+    background-color: white;
+    
+    border-radius:10%;
+ font-family: "Boldonse";
+    color: rgb(238, 185, 117);
+}
+.chef1{
+    width: 15%;
+    height: 3rem;
+    border: none;
+    border-radius:10%;
+
+    background-color: whitesmoke;
+  font-size: 1rem;
+    margin-right: 2%;
+}
+
+.tex4{
+  color: #8b8373;
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  width: 95%; 
+margin-top: 6rem;
+margin-bottom: 10rem;
+text-align: center;
+font-size: 1.7rem;
+}
+
+.boss{
+ display: none;
+}
+.fab{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+.croix{
+    display: none;
+}
+.goos{
+    height: 34rem;
+    width: 60%;
+    margin-top: 2%;
+    display: block;
+ background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
+ background-repeat: no-repeat;
+ background-size: cover;
+border-radius: 1rem;
+
+}
+
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    display: flex;
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4%;
+    text-decoration: underline burlywood;
+    margin-left: 5%;
+    font-family: "Oswald";
+ 
+}
+.Omra20255{
+    display: flex;
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 4%;
+    text-decoration: underline burlywood;
+    margin-left: 5%;
+    font-family: "Oswald";
+}
+.Omra20256{
+    display: flex;
+    font-size: 2.6rem;
+    color: whitesmoke;
+    margin-top: 4%;
+    text-decoration: none;
+    margin-left: 5%;
+    font-family: "Oswald";
+}
+.Omra2025{
+  margin-right: 1.5%;
+  
+ 
+}
+
+.deuxx{
+    display: flex;
+    font-size: 2.5rem;
+    color: white;
+    margin-top: 2%;
+    margin-left: 10%;
+    text-decoration: underline burlywood;
+    font-family: "Oswald";
+}
+.trois{
+    display: flex;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 16%;
+}        
+.trois3{
+    display: flex;
+    font-size: 1rem;
+    color: white;
+    margin-top: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 1%;
+}
+
+.rond{
+    background-color: rgba(219, 166, 96, 0.568);
+border: 2px solid whitesmoke;
+    height: 28vh;
+    width: 28%;
+
+    font-family: "Oswald";
+    margin-left: 72%;
+    border-radius: 10%;
+}
+.pad{
+    padding-top: 20%;
+}
+.quatre{
+    color: white;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+text-align: center;
+margin-top: 20%;
+}
+.cinque{
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+text-align: center;
+margin-top: 10%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom:2%;
+    margin-top:8%;
+    font-size: 2rem;
+
+    color: burlywood;
+    
+    font-family:"Inter";
+}
+
+#www{
+    display: flex;
+    justify-content: center;
+ margin-top: 5%;
+}
+.goos2{
+ 
+        height: 30rem;
+        width: 50%;
+        margin-top: 2%;
+        display: block;
+     background-image: url("https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/Jordanian%20passport.jpg.jpg?itok=U0ViXGUK");
+     background-repeat: no-repeat;
+     background-size: cover;
+    border-radius: 1rem;
+    margin: 2%;
+    display: flex;
+            justify-content: center;
+            align-items: center;
+    
+    }
+  .goos2:hover{
+    border: 6px solid black;
+  }
+    .goos3{
+       
+            height: 30rem;
+            width: 55%;
+            margin-top: 2%;
+            display: block;
+         background-image: url("https://albouraqtravel.fr/wp-content/uploads/2019/07/visas-pour-le-hajj-vision-2030.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+        border-radius: 1rem;
+        margin: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        }
+       
+    .goos5{
+        height: 35rem;
+        width: 60%;
+        margin-top: 2%;
+        display: block;
+     background-image: url("https://i0.wp.com/www.mahaara.fr/wp-content/uploads/2023/09/Omra-Madina-Arabie-Saoudite-Mahaara.jpg?fit=2149%2C2145&ssl=1");
+     background-repeat: no-repeat;
+     background-size: cover;
+  
+    border-radius: 1rem;
+    
+    }
+    .goos22{
+        height: 35rem;
+        width: 60%;
+        margin-top: 2%;
+        display: block;
+     background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/562349970.jpg?k=2061be325cb2645208dc3a4b792bae747edbb4f24d8eaf506f17f425227b9e99&o=&hp=1");
+     background-repeat: no-repeat;
+     background-size: cover;
+    border-radius: 1rem;
+
+    
+    }
+    .goos23{
+        height: 35rem;
+        width: 60%;
+        margin-top: 10%;
+
+        display: block;
+     background-image: url("https://www.ubparis.com/cache/img/hotel-urban-bivouac-petit-dejeuner-206198-1920-1280-landscape.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+    border-radius: 1rem;
+ 
+    
+    }
+    
+        .goos3:hover{
+            border: 6px solid black;
+          }
+        h2{
+            font-size: 2rem;
+            justify-content: center;
+           text-align: center;
+           color: #a79f8f;
+           text-decoration: underline burlywood;
+           margin-top: 9%;
+           margin-bottom: 5%;
+
+           font-family: "Permanent Marker";
+           
+        }
+.passtext{
+    font-size: 0.8rem;
+  
+    color: white;
+    font-family: "Boldonse";
+    display: none;
+
+}
+.container:hover .passtext {
+    visibility: visible;
+}
+
+footer{
+    margin-top: 2%;
+    background-color: black;
+    height: 20rem;
+}
+.foll{
+    margin-top: 2%;
+}
+.spra{
+    color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Boldonse";
+    font-size: 0.6rem;
+}
+.sprat{
+margin-top: 4%;
+   color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Boldonse";
+ 
+}
+.foll2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.voix{
+      display: none;
+}
+
+h4{
+    font-family: "Boldonse";
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+   
+}
+
+.lol{
+    padding: 2%;
+}
+
+.tex444{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   color: black;
+   
+ 
+    }
+    .tex44{
+        width:70%;  
+        text-align: center;
+        font-size: 1.8rem;
+        color: black;
+   
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+        margin-bottom: 5%;
+        }
+
+        
+        
+
+        label{
+            display: block;
+        font-size: 0.8rem;
+        font-family:"boldonse";
+        width: 90%;
+        color: burlywood;
+      
+        }
+
+        .salif{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .salif2{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 6rem;
+        }
+
+        #nom{
+            height: 2rem;
+            width: 100%;
+            border: 2px solid black;
+            border-radius: 2rem;
+        }
+        #nom2{
+            height: 15rem;
+            width: 100%;
+            text-align: center;
+        }
+        form{
+         width: 50%;
+    
+        }
+.site{
+   display: block;
+  
+}
+
+.KAKALA{
+    display: flex;
+}
+
+.janajan{
+    display: block;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+width: 40%;
+}
+.premierjan{
+    display: flex;
+ margin-right: 1.5rem;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 2rem;
+    font-family:"Boldonse" ;
+}
+.folome{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+p31{
+    color: #8b8373;
+
+    margin-right: 1.5rem;
+    
+}
+p29{
+    display: flex;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 0.8rem;
+    width: 80%;
+    font-family:"Boldonse" ;
+}
+.metsa{
+    display: block;
+    margin-top:10rem ;
+}
+.trois3{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    font-family:"Oswald" ;
+    text-align:left;
+}
+
+.tgggggg{
+    justify-content: center;
+    align-items: center;
+}
+
+#valide{
+    margin-top: 2%;
+    background-color: burlywood;      /* Couleur de fond (bleu) */
+    color: white;                   /* Couleur du texte */
+    border: none;                   /* Pas de bordure */
+    padding: 10px 20px;             /* Espace intérieur */
+    font-size: 16px;                /* Taille de la police */
+    border-radius: 5px;             /* Coins arrondis */
+    cursor: pointer;                /* Curseur en forme de main */
+    transition: background-color 0.3s ease; /* Animation fluide */
+
+  }
+  .valide2{
+    display: flex;
+    justify-content: flex-end;    
+    align-items: flex-end;  
+    margin-top: 2rem
+  }
+  .mocotadim{
+    height: 80rem;
+    width: 100%;
+    display: flex;
+  }
+
+  .gg{
+  
+    margin-left: 2rem;
+    height: 80rem;
+    width: 50%;
+    text-align: center;
+  }
+
+  .dd{
+    border: 2px solid red;
+    height: 40rem;
+    width: 50%;
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .visvis{
+    color: burlywood;
+    text-decoration: underline black;
+    font-size: 2rem;
+    
+    font-family:"Boldonse" ;
+  }
+@media (min-width: 1981px) and (max-width: 3000px) {
+    .droit{
+        height: 40rem;
+        }
+        .gauche{
+        height: 55rem;
+        
+    margin-top: -15rem;
+        }
+        .text3{
+        margin-top: 0%;
+        }
+        .navb{
+        padding: 2rem;
+        }
+        .tex4{
+        width:90%;
+        margin-top: 15%;
+        text-align: center;
+        font-size: 2.4rem;
+        }
+        .tex44{
+            width:60%;
+            
+            text-align: center;
+            font-size: 2.2rem;
+            }
+        .trois{
+        margin-bottom: 0%;
+        }
+        .rond{
+        height: 15vh;
+        margin-top: 20rem;
+        margin-left: 70%;
+        }
+        .quatre{
+        margin-top: 10%;
+        }
+        .goos{
+        height: 55rem;
+        }
+        .goos5{
+        height: 55rem;
+        }
+        .goos3{
+        height: 40rem;
+        width: 40%;
+        }
+        .goos2{
+        height: 40rem;
+        width: 40%;
+        }
+        footer{
+        height: 30rem;
+        }
+        .Omra20256{
+        margin-left: 0%;
+        }
+        
+        .deuxx{
+        margin-left: 7%;
+        }
+    
+    
+        .goos22{
+            height: 55rem;
+         
+    
+    
+        }
+        .goos23{
+            height: 55rem;
+    
+    
+        }
+    }
+    
+    
+    
+    @media (min-width: 1400px) and (max-width: 1980px) {
+        .droit{
+            height: 15rem;
+            }
+            .gauche{
+            height: 50rem;
+            
+    margin-top: -11rem;
+            }
+            .text3{
+            margin-top: 0%;
+            }
+            
+            .navb{
+            padding: 2rem;
+            }
+            .tex4{
+            width:100%;
+            margin-top: 10%;
+            text-align: center;
+            font-size: 1.8rem;
+            }
+            .tex44{
+                width:70%;
+                margin-bottom: 0%;
+                text-align: center;
+                font-size: 2.2rem;
+                }
+            .trois{
+            margin-bottom: 0%;
+            }
+            .rond{
+            height: 20vh;
+            margin-top: 10rem;
+            margin-left: 70%;
+            }
+            .quatre{
+            margin-top: 10%;
+            }
+            .goos{
+            height: 40rem;
+            }
+            .goos5{
+            height: 40rem;
+            }
+            .goos3{
+            height: 38rem;
+            width: 50%;
+            }
+            .goos2{
+            height: 40rem;
+            width: 40%;
+            }
+            footer{
+            height: 30rem;
+            }
+            .Omra20256{
+            margin-left: 0%;
+            }
+           
+            .deuxx{
+            margin-left: 7%;
+            }
+       
+       
+            .goos22{
+                height: 40rem;
+       
+       
+            }
+            .goos23{
+                height: 40rem;
+       
+       
+            }
+            .trois{
+                margin-bottom: 4rem;
+            }
+        }
+    
+    
+@media (min-width: 990px) and (max-width: 1300px) { 
+    .text3{
+        margin-top: 0%;
+        height: 10%;
+    }
+    .text2{
+        margin-bottom: 15%;
+    }
+    .tex4{
+        font-size: 1.7rem;
+        width:95%;  
+        margin-top: 10%;
+        
+        }
+        .rond{
+            height:25vh;
+            width: 35%;
+            margin-left: 65%;
+        }
+        .goos{
+            width: 70%;
+            height: 35rem;
+        }
+        .goos5{
+            width: 70%;
+            height: 35rem;
+        }
+         .goos2{
+                                height: 25em;
+                                width: 50%;
+                                margin-bottom: 10%;
+                            }
+                            .goos3{
+                                height: 25rem;
+                                width: 50%;
+                            }
+                         
+                            h2{
+                                font-size: 2rem;
+                                justify-content: center;
+                               text-align: center;
+                               color: #a79f8f;
+                               text-decoration: underline burlywood;
+                               margin-top: 10%;
+                               margin-bottom: 10%;
+                            }
+                            .tex44{
+                                width:80%;  
+                                font-size: 1.6rem;
+                                margin-bottom: 0%;
+                               
+                                }
+                                h1{
+                                    font-size: 1.5rem; 
+                                
+}
+.logetnom{
+    display: flex ;
+    font-size: 1.7rem;
+    margin-right: 1%;
+    width: 35%;
+    
+}
+#ays{
+   
+   font-size: 0.8rem;
+
+}
+.trois{
+    margin-bottom: 4rem;
+}
+
+ }
+ 
+@media (min-width: 600px) and (max-width: 990px) { 
+   
+    .ctrl{
+        display: block;
+        margin: 0%;
+        }  
+        .droit{
+            width: 100%;
+            height: 20rem;
+            }
+            
+            
+            .text3{
+                margin-top: 15%;
+                height: 10%;
+            }
+            
+            .gauche{
+                width: 100%;
+                height: 38rem;
+            }
+
+            .text2{
+                height: 65%;
+                margin-bottom: 0%;
+            }
+            .tex4{
+            
+                font-size: 1.5rem;
+             width: 80%;
+                margin-top: 10%;
+                
+                }
+                .gauche{
+                    height: 38rem;
+                }
+
+               
+                
+                .titre{
+                    font-size: 0.8rem;
+                    width: 100%;
+                }
+                .logetnom{
+                    width: 100%;
+                    margin-right: 30%;
+                }
+                .reste{
+                   
+                    font-size: 1.5rem;
+                    height: 2vh;
+                    align-items: center;
+                    display: none;
+                 
+                    z-index:1;
+                }
+
+            
+                .navb{
+                    display: flex;
+                   justify-content:space-evenly;
+                }
+
+                .fab{
+                    display: block;
+                    justify-content: space-evenly;
+                    width: 100%;
+                    background-color:rgba(0, 0, 0, 0.555);;
+                    height: 100vh;
+                }
+
+                #ays{
+                    justify-content: center;
+                    align-items: center;
+                   text-align: center;
+                   font-size: 1rem;
+                   margin-top: 20%;
+                   margin-bottom: 50%;
+                    
+                }
+                a{
+                    margin-top: 5%;
+                    color:#9b9488;
+                }
+                
+              .croix{
+                width: 30%;
+                height: 5%;
+                border-radius: 2%;
+                background-color: rgba(0, 0, 0, 0.555);;
+                color: white;
+                border:none ;
+                display: block;
+              }
+                
+                .boss{
+                    display: flex;
+                    margin-right: 5%;
+                }
+                
+                .rond{
+                    height: 30vh;
+                    width: 43%;
+                    margin-left: 2%;
+                }
+                .goos{
+                        height: 30rem;
+                        width: 80%;
+                    }
+                    .goos23{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goos22{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goos5{
+                        height: 30rem;
+                        width: 80%;
+                    }
+                    .trois{
+                        margin-bottom: 5%;
+                        } 
+                        .quatre{
+                            margin-top: 8%;
+                            }
+                           
+                            .goos2{
+                                height: 20em;
+                                width: 50%;
+                                margin-bottom: 10%;
+                            }
+                            .goos3{
+                                height: 20rem;
+                                width: 50%;
+                            }
+                         
+                            h2{
+                                font-size: 2rem;
+                                justify-content: center;
+                               text-align: center;
+                               color: #a79f8f;
+                               text-decoration: underline burlywood;
+                               margin-top: 10%;
+                               margin-bottom: 10%;
+                            }
+
+                            .chef1{
+                                width: 30%;
+                                
+                            }
+                            footer{
+                                margin-top: 15%;
+                                background-color: black;
+                                height: 16rem;
+                                
+                            }
+                            .tex44{
+                                width:80%;  
+                                font-size: 1.4rem;
+                                margin-bottom: 5%;
+                            
+                                }
+                                h1{
+                                    font-size: 1.2rem; 
+                                
+}
+
+ form{
+    width: 80%;
+
+   }
+ }
+
+ @media (min-width: 500px) and (max-width: 599px) { 
+   
+    .ctrl{
+        display: block;
+        margin: 0%;
+        }  
+        .droit{
+            width: 100%;
+            height: 18rem;
+            
+            margin-bottom: 15rem;
+            }
+          
+            .text3{
+                margin-top: 15%;
+                height: 10%;
+            }
+            .text2{
+                margin-bottom: 5%;
+            }
+            .tex4{
+                font-size: 1.5rem;
+                width:90%;  
+                margin-top: 10%;
+                margin-bottom: 4%;
+                
+                }
+                .gauche{
+                    width: 100%;
+                    height: 38rem;
+                  
+                }
+
+                .titre{
+                    font-size: 1.2rem;
+                }
+           
+                .titre{
+                    font-size: 0.9rem;
+                }
+                .logetnom{
+                    width: 100%;
+                    margin-right: 30%;
+                }
+                .reste{
+                   
+                    font-size: 1.5rem;
+                    height: 2vh;
+                    align-items: center;
+                    display: none;
+                 
+                    z-index:1;
+                }
+
+            
+                .navb{
+                    display: flex;
+                   justify-content:space-evenly;
+                }
+
+                .fab{
+                    display: block;
+                    justify-content: space-evenly;
+                    width: 100%;
+                    background-color:rgba(0, 0, 0, 0.555);;
+                    height: 100vh;
+                }
+
+                #ays{
+                    justify-content: center;
+                    align-items: center;
+                   text-align: center;
+                   font-size: 1rem;
+                   margin-top: 20%;
+                   margin-bottom: 50%;
+                    
+                }
+                a{
+                    margin-top: 5%;
+                    color:#9b9488;
+                }
+                
+              .croix{
+                width: 30%;
+                height: 5%;
+                border-radius: 2%;
+                background-color: rgba(0, 0, 0, 0.555);;
+                color: white;
+                border:none ;
+                display: block;
+              }
+                
+                .boss{
+                    display: flex;
+                    margin-right: 5%;
+                }
+                .rond{
+                    height: 30vh;
+                    width: 43%;
+                    margin-left: 2%;
+                }
+                .goos{
+                        height: 30rem;
+                        width: 90%;
+                    }
+                    .goos23{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goos22{
+                        height: 30rem;
+                        width: 95%;
+                    }
+                    .goos5{
+                        height: 30rem;
+                        width: 90%;
+                    }
+                    .trois{
+                        margin-bottom: 5%;
+                        } 
+                        .quatre{
+                            margin-top: 8%;
+                            }
+                            
+                            .goos2{
+                                height: 15em;
+                                width: 50%;
+                                margin-bottom: 10%;
+                            }
+                            .goos3{
+                                height: 15rem;
+                                width: 50%;
+                            }
+                         
+                            h2{
+                                font-size: 2rem;
+                                justify-content: center;
+                               text-align: center;
+                               color: #a79f8f;
+                               text-decoration: underline burlywood;
+                               margin-top: 10%;
+                               margin-bottom: 10%;
+                            }
+
+                            .chef1{
+                                width: 40%;
+                                
+                            }
+                            footer{
+                                margin-top: 15%;
+                                background-color: black;
+                                height: 13rem;
+                                
+                            }
+                            .tex44{
+                                width:80%;  
+                                font-size: 1.3rem;
+                                margin-bottom: 5%;
+                               
+                                }
+                                h1{
+                                    font-size: 1.2rem; 
+                                
+
+}
+
+                               
+.janajan{
+    display: block;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+width: 100%;
+text-align: center;
+}
+.premierjan{
+    display: flex;
+ margin-right: 1.5rem;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 2rem;
+    font-family:"Boldonse" ;
+}
+.folome{
+    margin-top: 10%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+p31{
+    color: #8b8373;
+
+    text-align: center;
+    
+}
+.metsa{
+    display: block;
+}   
+form{
+    width: 80%;
+
+   }
+}
+@media (min-width: 421px) and (max-width: 499px) { 
+   
+    .ctrl{
+        display: block;
+        margin: 0%;
+        }  
+        .droit{
+            width: 100%;
+            height: 15rem;
+            margin-bottom: 10rem;
+            }
+            
+            .text3{
+                margin-top: 0%;
+                height: 10%;
+            }
+            .text2{
+                margin-bottom: 20%;
+                height: 60%;
+                
+            }
+            .tex4{
+  
+                width:90%;  
+                margin: 1%;
+                margin-top: 10%;
+                margin-bottom: 0%;
+                font-size: 1rem;
+        
+                
+                }
+                .gauche{
+                    width: 100%;
+                    height: 36rem;
+                  
+                }
+
+                
+           
+                .titre{
+                    font-size: 0.9rem;
+                }
+                .logetnom{
+                    width: 100%;
+                    margin-right: 30%;
+                }
+                .reste{
+                   
+                    font-size: 1.5rem;
+                    height: 2vh;
+                    align-items: center;
+                    display: none;
+                 width: 100%;
+                 z-index:1;
+                }
+
+            
+                .navb{
+                    display: flex;
+                   justify-content:space-evenly;
+                }
+
+                .fab{
+                    display: block;
+                    justify-content: space-evenly;
+                    width: 100%;
+                    background-color:rgba(0, 0, 0, 0.555);;
+                    height: 90vh;
+                }
+                #ays{
+                    justify-content: center;
+                    align-items: center;
+                   text-align: center;
+                   font-size: 1rem;
+                   margin-top: 20%;
+                   margin-bottom: 50%;
+                    
+                }
+                a{
+                    margin-top: 5%;
+                    color:#9b9488;
+                }
+                
+              .croix{
+                width: 30%;
+                height: 5%;
+                border-radius: 3%;
+                border:none ;
+                background-color: rgba(0, 0, 0, 0.555);;
+                color: white;
+                display: block;
+              }
+              .boss{
+                display: flex;
+                margin-right: 5%;
+            }
+                .rond{
+                    height: 30vh;
+                    width: 43%;
+                    margin-left: 2%;
+                }
+                .goos{
+                        height: 25rem;
+                        width: 95%;
+                    }
+                    .goos23{
+                        height: 25rem;
+                        width: 95%;
+                    }
+                    .goos22{
+                        height: 25rem;
+                        width: 95%;
+                    }
+                    .goos5{
+                        height: 25rem;
+                        width: 95%;
+                    }
+                    .trois{
+                        margin-bottom: 5%;
+                        } 
+                        .quatre{
+                            margin-top: 8%;
+                            }
+                           
+                            .goos2{
+                                height: 20em;
+                                width: 95%;
+                                margin-bottom: 10%;
+                            }
+                            .goos3{
+                                height: 22rem;
+                                width:95%;
+                            }
+                            #www{
+                             
+                                flex-wrap: wrap;
+                            
+                            }
+                            h2{
+                                font-size: 2rem;
+                                justify-content: center;
+                               text-align: center;
+                               color: #a79f8f;
+                               text-decoration: underline burlywood;
+                               margin-top: 10%;
+                               margin-bottom: 10%;
+                            }
+                            .chef1{
+                                width: 40%;
+                                
+                            }
+                            footer{
+                                margin-top: 15%;
+                                background-color: black;
+                                height: 13rem;
+                                
+                            }
+                            .tex44{
+                                width:95%;  
+                                font-size: 1.2rem;
+                                margin-bottom: 5%;
+                               
+                                }
+                                h1{
+                                    font-size: 1.2rem; 
+                                }
+                                                               
+.janajan{
+    display: block;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+width: 100%;
+text-align: center;
+}
+.premierjan{
+    display: flex;
+ margin-right: 1.5rem;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 2rem;
+    font-family:"Boldonse" ;
+}
+.folome{
+    margin-top: 10%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+p31{
+    color: #8b8373;
+
+    text-align: center;
+    
+}
+.metsa{
+    display: block;
+}  
+.trois3{
+
+    font-size: 0.8rem;
+   
+}
+form{
+    width: 90%;
+
+   }
+}
+            
+
+                
+
+
+@media (min-width: 300px) and (max-width: 420px) { 
+   
+    .ctrl{
+        display: block;
+        margin: 0%;
+        }  
+        .droit{
+            width: 100%;
+            height: 15rem;
+            margin-bottom: 5rem;
+            }
+            
+            .text3{
+                margin-top: 15%;
+                height: 10%;
+            }
+            .text2{
+                height: 60%;
+                margin-bottom: 0%;
+            }
+            .tex4{
+  
+                width:90%;  
+                margin: 1%;
+                margin-top: 0%;
+                margin-bottom: 0%;
+                font-size: 1rem;
+        
+                
+                }
+                .gauche{
+                    width: 100%;
+                    height: 25rem;
+                    border-radius: 0rem 0rem 0,5rem 0,5rem;
+                    margin-right: 2%;
+                    /* background-size:cover ; */
+                }
+
+                
+           
+                .titre{
+                    font-size: 1rem;
+                    text-decoration: none;
+                }
+                .logetnom{
+                    width: 100%;
+                    margin-right: 15%;
+                }
+                .reste{
+                   
+                    font-size: 1.5rem;
+                    height: 2vh;
+                    align-items: center;
+                    display: none;
+                 width: 100%;
+                 z-index:1;
+                }
+
+            
+                .navb{
+                    display: flex;
+                   justify-content:space-evenly;
+                }
+
+                .fab{
+                    display: block;
+                    justify-content: space-evenly;
+                    width: 100%;
+                    background-color:rgba(0, 0, 0, 0.932);
+                    height: 90vh;
+
+                }
+                #ays{
+                    justify-content: center;
+                    align-items: center;
+                   text-align: center;
+                   font-size: 1rem;
+                   margin-top: 20%;
+                   margin-bottom: 50%;
+                    
+                }
+                a{
+                    margin-top: 5%;
+                    color:#9b9488;
+                }
+                
+              .croix{
+                width: 30%;
+                height: 5%;
+                border-radius: 2%;
+                border:none ;
+                background-color:rgba(0, 0, 0, 0.555);
+                color:white ;
+                display: block;
+              }
+              .boss{
+                display: flex;
+                margin-right: 5%;
+            }
+
+            .rond{
+               
+                height: 20vh;
+                width: 60%;
+                margin-left: 2%;
+                margin-top: 2rem;
+            }
+            .goos{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .goos23{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .goos22{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .goos5{
+                    height: 23rem;
+                    width: 95%;
+                }
+                .trois{
+                    margin-bottom: 5%;
+                    font-size: 1.2rem;
+                    } 
+                    .quatre{
+                        margin-top: 8%;
+                        }
+                        .text33{
+                            margin-bottom: 10%;
+                        }
+                        .chef1{
+                            width: 40%;
+                            
+                        }
+                       
+                            .goos2{
+                                height: 18em;
+                                width: 95%;
+                                margin-bottom: 10%;
+                            }
+                            .goos3{
+                                height: 18rem;
+                                width: 95%;
+                            }
+                            .goos5{
+                                height: 23rem;
+                                width: 95%;
+                            }
+                            #www{
+                             flex-wrap: wrap;
+                              
+                            }
+                            h2{
+                                font-size: 1.3rem;
+                                justify-content: center;
+                               text-align: center;
+                               color: a79f8f;
+                               text-decoration: underline burlywood;
+                               margin-top: 20%;
+                               margin-bottom: 10%;
+                              font-family: "Boldonse";
+                            }
+                            .Omra20255{
+                                font-size: 2rem;
+                                
+                               
+                              }
+                              footer{
+                                margin-top: 15%;
+                                background-color: black;
+                                height: 13rem;
+                                
+                            }
+                            .foll{
+                                
+                                margin-bottom: 8%;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                            }
+                              .spra{
+                                color: burlywood;
+                                display: flex;
+                               
+                                font-family: "Boldonse";
+                                font-size: 0.5rem;
+                            }
+                            .voix{
+                                
+                                margin-bottom: 4%;
+
+                            }
+                            
+                            .tex44{
+                                width:95%;  
+                                font-size: 1rem;
+                                margin-bottom: 5%;
+                               
+                                }
+                                h1{
+                                    font-size: 1.2rem; 
+                                    margin-top:3%;
+                                }
+
+                                
+.janajan{
+    display: block;
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+width: 100%;
+text-align: center;
+}
+.premierjan{
+    display: flex;
+ margin-right: 1.5rem;
+    justify-content: center;
+    color: burlywood;
+    align-items: center;
+    font-size: 2rem;
+    font-family:"Boldonse" ;
+}
+.folome{
+    margin-top: 10%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+p31{
+    color: #8b8373;
+width: 80%;
+    text-align: center;
+    
+}
+.metsa{
+    display: block;
+}  
+.trois3{
+  
+    font-size: 0.8rem;
+   
+}
+form{
+    width: 90%;
+
+   }
+}
+
