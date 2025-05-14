@@ -3,11 +3,11 @@
     margin: 0%;
     box-sizing: border-box;
 }
-body{  background-color:whitesmoke;
+body{  background-color:white;
 }
 .navb{display: flex;
     align-items: center;
-    margin-bottom: 0.1rem;
+    margin-bottom: 1rem;
     
 }
 li{
@@ -39,7 +39,7 @@ text-align: center;
 }
 
 a{
-    color:white;
+    color:#8b8373;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
@@ -64,13 +64,10 @@ height: 15rem;
 }
 
 .gauche{
-    
-    margin-top: -8rem;
-    z-index: -1;
     width: 100%;
-    height: 45rem;
-    background-image: url("https://images.pexels.com/photos/20472958/pexels-photo-20472958/free-photo-of-monument-hommes-voyager-religion.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-repeat: no-repeat;
+    height: 38rem;
+    background-repeat: no-repeat; 
+    background-image: url("https://static.vecteezy.com/ti/vecteur-libre/p1/4929006-ville-de-madinah-arabie-saoudite-celebres-batiments-modifiable-vector-illustration-vectoriel.jpg");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
@@ -594,8 +591,6 @@ p29{
         }
         .gauche{
         height: 55rem;
-        
-    margin-top: -15rem;
         }
         .text3{
         margin-top: 0%;
@@ -673,8 +668,6 @@ p29{
             }
             .gauche{
             height: 50rem;
-            
-    margin-top: -11rem;
             }
             .text3{
             margin-top: 0%;
@@ -842,6 +835,7 @@ p29{
             .gauche{
                 width: 100%;
                 height: 38rem;
+                background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
             }
 
             .text2{
@@ -1027,7 +1021,7 @@ p29{
                 .gauche{
                     width: 100%;
                     height: 38rem;
-                  
+                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
                 }
 
                 .titre{
@@ -1237,7 +1231,7 @@ form{
                 .gauche{
                     width: 100%;
                     height: 36rem;
-                  
+                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
                 }
 
                 
@@ -1454,6 +1448,8 @@ form{
                     height: 25rem;
                     border-radius: 0rem 0rem 0,5rem 0,5rem;
                     margin-right: 2%;
+
+                    background-image: url("https://img.freepik.com/premium-photo/holy-kaaba-surrounded-by-black-fabrics-decorated-with-gold-decorations_724205-1969.jpg");
                     /* background-size:cover ; */
                 }
 
