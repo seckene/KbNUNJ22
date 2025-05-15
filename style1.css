@@ -69,12 +69,10 @@ height: 15rem;
 margin-top: -8rem;
 z-index: -1;
     background-repeat: no-repeat; 
-    background-image: url("photo\ noir\ banier.jpg");
+    background-image: url("https://img.freepik.com/vecteurs-libre/sainte-kaaba-mecque-arabie-saoudite-illustration-vectorielle-croquis-dessines-main_460848-10337.jpg");
     background-size: cover;
     border-radius: 0rem 0rem 2rem 2rem;
 margin-bottom:2rem;
-object-fit: cover;
-    object-position: center;
 }
 
 .text2{
@@ -151,7 +149,8 @@ font-size: 1.7rem;
  background-repeat: no-repeat;
  background-size: cover;
 border-radius: 1rem;
-
+object-fit: cover;
+    object-position: center;
 
 }
 
