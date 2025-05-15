@@ -2,9 +2,6 @@ let reste =document.querySelector(".reste")
 let burger=document.querySelector(".boss")
 let  fab=document.querySelector(".fab")
 
-  
-  
-  
 
 
 
@@ -36,5 +33,4 @@ goos2.addEventListener("mouseover", (e) => {
 
     Omra20255.style.visibility = "hidden";
 });
-
 
